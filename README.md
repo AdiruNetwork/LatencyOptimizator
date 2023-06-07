@@ -8,7 +8,7 @@ is a utilitythat allows you to quickly and reliably eliminate Windows latency, r
 
 ![](https://github.com/denis-g/windows10-latency-optimization/blob/master/images/hr.png)
 
-### ![🔧 Pro blems and how to fix the](https://github.com/AdiruNetwork/LatencyOptimizer/wiki/Fixs-LatencyOptimizer)
+### 🔧 Pro blems and how to fix the
 - [Problem with AntiLag on autoload](https://github.com/AdiruNetwork/LatencyOptimizer/issues/1)
 
 
